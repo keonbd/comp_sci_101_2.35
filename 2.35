@@ -1,0 +1,11 @@
+import math
+caffeine_mg = float(input())
+print('After 6 hours:',"{0:.2f}".format(caffeine_mg/2),'mg')
+print('After 12 hours:',"{0:.2f}".format(caffeine_mg/2/2),'mg')
+print('After 24 hours:',"{0:.2f}".format(caffeine_mg/2/2/2/2),'mg')
+#format_float = "{:.2f}".format(float)
+#print(format_float)
+#print('After 6 hours: ',f'{caffeine_mg.2f}')
+#print('After 6 hours: ',half,'mg')
+''' Type your code here. '''
+
